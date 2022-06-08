@@ -12,7 +12,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!, This is a remark!!!" );
+        System.out.println( "Hello World!, This is a remark!!!,git-clone-remark!" );
         SpringApplication.run(App.class, args);
     }
 }
